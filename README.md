@@ -6,8 +6,9 @@
 4. [Technologies Used](#technologies-used)
 5. [Game Mechanics](#game-mechanics)
 6. [How to Run the Simulation](how-to-run-the-simulation)
-7. [Future Improvements](#future-improvements)
-8. [Acknowledgments](#acknowledgments)
+7. [Applications](applications)
+8. [Future Improvements](#future-improvements)
+9. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -71,6 +72,19 @@
 
 4. **End of Simulation**:
    - The simulation concludes when all tasks are completed, or resources are depleted.
+
+---
+
+## Applications
+The **Martian Robot Society** simulation can be applied or generalized to several real-world domains:
+
+1. **Organizational Management**:
+   - Simulates hierarchical decision-making processes in corporations, government bodies, or other organizations.
+   - Models resource allocation and task management between teams and managers.
+
+2. **Urban Planning**:
+   - Models resource distribution and task prioritization in smart cities.
+   - Simulates how various city departments (e.g., waste management, traffic control) can coordinate efficiently.
 
 ---
 
