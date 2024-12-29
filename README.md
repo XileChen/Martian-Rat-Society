@@ -1,5 +1,16 @@
 # Martian Robot Society
 
+## Table of Contents
+1. [Overview](#overview)
+3. [Features](#features)
+4. [Technologies Used](#technologies-used)
+5. [Game Mechanics](#game-mechanics)
+6. [How to Run the Simulation](how-to-run-the-simulation)
+7. [Future Improvements](#future-improvements)
+8. [Acknowledgments](#acknowledgments)
+
+---
+
 ## Overview
 
 **Martian Robot Society** is a simulation project that models a hierarchical society of robots on Mars. The project involves creating interconnected systems representing governance, citizens, and decision-making processes. This program was designed to explore advanced object-oriented programming concepts and hierarchical data modeling.
@@ -47,9 +58,30 @@
 
 ---
 
-## Installation and Setup
+## How to Run the Simulation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone [repository-url]
-   cd martian-robot-society
+1. **Initialize Society**:
+   - The program initializes a hierarchical robot society with citizens and leaders.
+
+2. **Perform Tasks**:
+   - Citizens perform tasks assigned by leaders and report back on progress.
+
+3. **Simulate Decision-Making**:
+   - Leaders analyze data from citizens and make decisions that influence the entire society.
+
+4. **End of Simulation**:
+   - The simulation concludes when all tasks are completed, or resources are depleted.
+
+---
+
+## Future Improvements
+
+- **Dynamic Rules**: Add the ability to dynamically modify rules during the simulation.
+- **Graphical Interface**: Visualize the hierarchy and interactions using a GUI.
+- **Complex Scenarios**: Introduce random events or crises to test the robustness of the robot society.
+- **AI Leaders**: Implement AI algorithms for leader decision-making.
+  
+---
+
+## Acknowledgements
+Developed as part of a Python programming course, exploring governance and hierarchical systems. Special thanks to course instructors for their support.
